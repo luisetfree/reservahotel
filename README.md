@@ -20,3 +20,7 @@ Con una interfaz sencilla se puede reservar una habitación, al finalizar se bri
 
 Seguidamente la vista de administrador permite ver las reservas creadas y el resumen de cada usuario que registra una reservación.
 Se puede crear, ver y eliminar una reserva.
+
+### Ver demo
+
+[Reserva de Hotel online](https://reservahotel.herokuapp.com/)
